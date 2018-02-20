@@ -1,4 +1,4 @@
-# WIP_TMF640_ActivationConfiguration
+# TMF640_ActivationConfiguration
 TM Forum Open APIs (Apache 2.0) Activation and Configuration API
 
 Allows the user to retrieve, create, update, delete services and retrieve
